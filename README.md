@@ -1,7 +1,7 @@
 # Top-10-Crypto-Coin-Historical-Data-2014-2024-
 This dataset contains historical price data for the top global cryptocurrencies, sourced from Yahoo Finance. The data spans the following time frames for each cryptocurrency:
 
-**BTC-USD (Bitcoin): From 2014 to December 2024
+BTC-USD (Bitcoin): From 2014 to December 2024
 
 ETH-USD (Ethereum): From 2017 to December 2024
 
@@ -19,7 +19,7 @@ USDC-USD (USD Coin): From 2018 to December 2024
 
 ADA-USD (Cardano): From 2017 to December 2024
 
-STETH-USD (Staked Ethereum): From 2020 to December 2024**
+STETH-USD (Staked Ethereum): From 2020 to December 2024
 
 *Key Features:*
 
